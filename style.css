@@ -1,0 +1,110 @@
+/* 
+    Prior to the start of coding session:
+        * Show the slide deck linked below while students are arriving
+        * https://docs.google.com/presentation/d/1XHyrfcu6lDDMrgCdFty1LdZXyoyhCZmQNwia10vFHTk/edit?usp=sharing
+        * Welcome everyone; talk about EFA's history + how to use Zoom
+        * Now a word from our COO, Dewand (use link below to show the video)
+        * Introduce yourself and pass introduction on to the rest of your team
+        * Discuss what we will be doing today + split into Code, UX|UI, and Cyber
+        * Introduce Admissions
+        * Begin coding with hourly ten minute breaks
+        * Question time until class is no longer interested.
+*/
+
+body /* Selector */ { /* Declaration */
+    background-color:  whitesmoke; /* Property and its Value */
+    font-family: 'Raleway', sans-serif;
+}
+
+/* Discuss Box Model & show it in Inspector tool */
+
+nav {
+    background-color:slategrey;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100vw;
+    z-index: 1; /* Stack order of element */
+}
+
+nav ul li {
+    float: right;
+    margin-right: 50px;
+    list-style-type: none; /* Removes li elements from style of name */
+    text-align: center;
+}
+
+#brand {
+    float: left;
+}
+
+.nav-link {
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: 'Acme', sans-serif;
+}
+
+/* Action selector */
+.nav-link:hover { 
+    color: black;
+}
+
+h1 {
+    font-size: 40pt;
+    font-family: 'Acme', sans-serif;
+}
+
+#home {
+    margin-top: 30px; /* Adjusts Future Developer part */
+    position: relative; /* Adjusts with normal flow */
+    left: -8px;
+    width: 100vw;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background: url(https://images.unsplash.com/photo-1580686679575-56530638446e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80) no-repeat;
+    background-size: cover;
+}
+
+.header-tag {
+    text-align: center;
+    color: tomato;
+    /* text-shadow: 2px 2px 2px lightcoral; */
+}
+
+h3.header-tag {
+    margin-top: -30px;
+    font-size: 18px;
+}
+
+h2 {
+    color:lightslategray;
+}
+
+.main {
+    text-align: center;
+}
+
+#about {
+    margin-top: 50px;
+    display: inline-block;
+}
+
+#about-picture {
+    width: 30vw;
+    float: left;
+}
+
+#profile-pic {
+    height: 300px;
+    width: 300px;
+    object-fit: cover; /* Maintains aspect ratio */
+    border-radius: 0.4em;
+    box-shadow: 2px 2px 2px slategrey;
+}
+
+#about-content {
+    width: 40vw;
+    float: right;
+    text-align: justify;
+}
