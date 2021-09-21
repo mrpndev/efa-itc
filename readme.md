@@ -4,10 +4,10 @@ This is the unofficial (for now) walk through for Eleven Fifty Academy's Introdu
 If it's your first time doing one, fear not. If you follow the following outline, you will look like a pro doing it!
 
 There are a few tips to follow before we begin:
-- [] Make sure you read through everything before start.
-- [] Do not assume your team is there! Always check everyone is in the room.
-- [] Make sure you have links to all of the rooms you will be using.
-- [] Everything that can go wrong will go wrong. Be prepared!
+- [ ] Make sure you read through everything before start.
+- [ ] Do not assume your team is there! Always check everyone is in the room.
+- [ ] Make sure you have links to all of the rooms you will be using.
+- [ ] Everything that can go wrong will go wrong. Be prepared!
 
  Enough talk. Let's look at the outline of a successful ITC. 
 
