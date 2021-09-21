@@ -1,16 +1,3 @@
-/* 
-    Prior to the start of coding session:
-        * Show the slide deck linked below while students are arriving
-        * https://docs.google.com/presentation/d/1XHyrfcu6lDDMrgCdFty1LdZXyoyhCZmQNwia10vFHTk/edit?usp=sharing
-        * Welcome everyone; talk about EFA's history + how to use Zoom
-        * Now a word from our COO, Dewand (use link below to show the video)
-        * Introduce yourself and pass introduction on to the rest of your team
-        * Discuss what we will be doing today + split into Code, UX|UI, and Cyber
-        * Introduce Admissions
-        * Begin coding with hourly ten minute breaks
-        * Question time until class is no longer interested.
-*/
-
 body /* Selector */ { /* Declaration */
     background-color:  whitesmoke; /* Property and its Value */
     font-family: 'Raleway', sans-serif;
