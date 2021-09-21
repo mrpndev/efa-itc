@@ -23,3 +23,5 @@ There are a few tips to follow before we begin:
 * Soft transition into introducing Admissions.
 * Begin coding with hourly ten minute breaks.
 * Question time until class is no longer interested.
+
+If you're still unsure about anything, feel free to reach out to Paul Niemczyk.
