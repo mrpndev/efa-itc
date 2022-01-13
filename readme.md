@@ -25,3 +25,5 @@ There are a few tips to follow before we begin:
 * Question time until class is no longer interested.
 
 If you're still unsure about anything, feel free to reach out to Paul Niemczyk.
+
+It’s really all about our opportunity to have real impact on transforming even more individual’s lives permanently.
